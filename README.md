@@ -162,7 +162,7 @@ typst watch main.typ          # 边写边编译
 
 ## 许可证
 
-暂未附加开源许可证。如需公开发布，请自行选择（MIT、CC BY 4.0 等）后再分发。
+本项目采用 **MIT License**，可自由使用、修改、分发和商用，详见 [LICENSE](LICENSE)。
 
 ## English documentation
 

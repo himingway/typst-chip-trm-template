@@ -181,8 +181,7 @@ instead.
 
 ## License
 
-No open-source licence is included yet. Choose one (MIT, CC BY 4.0, etc.) before
-redistributing.
+Released under the **MIT License**; see [LICENSE](LICENSE).
 
 ## Chinese documentation
 
